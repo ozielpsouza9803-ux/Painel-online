@@ -1,0 +1,6 @@
+{
+  "name": "AURIX AI",
+  "description": "Plataforma modular de orquestração multiagentes, cofre seguro de provedores de IA e governança multiaplicativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
